@@ -1,6 +1,6 @@
-# Machine Learning Projects, Lessons & other Artifacts
+## Machine Learning Projects, Lessons & other Artifacts - E.Kartik
 
-## Folder Structure:
+### Folder Structure:
 
 1. PythonBasics - Jupyter notebook that covers basic concepts of the Python programming language
 
