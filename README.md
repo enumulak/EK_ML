@@ -6,10 +6,10 @@
 Jupyter notebook that covers basic concepts of the Python programming language
 
 #### 2. NumPy
-Jupyter notebook that covers basic and advanced concepts of the NumPy library
+Jupyter notebooks that cover basic and advanced concepts of the NumPy library
 
 #### 3. Pandas
-Jupyter notebook that covers basic and advanced concepts of the Pandas library
+Jupyter notebooks that cover basic and advanced concepts of the Pandas library
 
 #### 4. Matplotlib
 Data visualizations using the Matplotlib library
