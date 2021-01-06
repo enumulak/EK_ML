@@ -1,0 +1,4 @@
+4th Jan
+tested = 896236 (daily tests number)
+confirmed = 16278 (daily confirmed)
+Daily positivity rate = 16278 / 896236 * 100
