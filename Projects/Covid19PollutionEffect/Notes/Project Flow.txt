@@ -28,3 +28,5 @@ Flow:
 10. Plot yearly data for pollutants
 
 11. Plot yearly and monthly graphs for each pollutant (box plot, line plot)
+
+12. Show a table/df of most polluted cities, grouped by pollutant
