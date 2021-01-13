@@ -1,0 +1,26 @@
+Project Goal: Analyze the effect of Covid Lockdown on India Air Pollution
+Maybe data can be analyzed from 5 - 7 major cities
+
+Flow:
+
+1. Start with information on air pollutants
+
+2. Show information on AQI (optional, can be shown later also)
+
+3. Load the city_day.csv data
+
+4. Show basic info 
+
+5. Define a function that shows a table of missing values
+
+4. Impute missing values (optional)
+
+5. Check Cities in Data and shortlist Cities that will be analyzed
+
+6. Convert date column to datetime format
+
+7. Combine Benzene, Toluene and Xylene into one column - BTX
+
+8. Combine PM2.5 and PM10 into one column - PM
+
+9. Create a 'Pollutants' column
