@@ -24,3 +24,7 @@ Flow:
 8. Combine PM2.5 and PM10 into one column - PM
 
 9. Create a 'Pollutants' column
+
+10. Plot yearly data for pollutants
+
+11. Plot yearly and monthly graphs for each pollutant (box plot, line plot)
